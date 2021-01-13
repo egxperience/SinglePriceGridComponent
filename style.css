@@ -132,7 +132,7 @@ h2{
 /* Bottom right */
 
 .bottom-right{
-    background-color: hsl(179, 62%, 43%,.5);
+    background-color: hsl(179, 62%, 43%,.75);
     padding: 25px;
     min-width: 270px;
     min-height: 166px;   
